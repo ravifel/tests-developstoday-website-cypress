@@ -1,27 +1,7 @@
-url: https://develops.today/
+https://develops.today/
 
---------------------------------------
--> contact us
+Contact us Page
 
-- enviar mensagem com todos os campos vazios
-
-- preencher apenas o nome
-- preencher apenas o email
-- preencher apenas a mensagem
-
-- preencher apenas o nome e o email
-- preencher apenas o nome e a mensagem
-- preencher apenas o email e a mensagem
-
-- selecionar um serviço necessário
-
-- selecionar orçamento
-(button slider)
-
-
---------------------------------------
--> blogue
-
-- ver todos os artigos
-- Selecionar um opção do menu de filtro de artigos "Desenvolvimento"
-- Selecionar um artigo
+- Filling in only the name field
+- Filling in only the email field
+- Filling in only the message field
